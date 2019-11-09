@@ -1,6 +1,8 @@
 # Git Workshop
 By [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://github.com/wrussell1999)
 
+## Instructions
+
 1. Create Repository
     1. On GitHub
     2. In Terminal
@@ -19,3 +21,17 @@ By [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://githu
     3. Pull Request
     4. Review Pull Request 
     5. Host on GitHub Pages
+
+## Resources
+
+- [Lots of examples you can try here](https://lab.github.com/)
+- [Brilliant guide for git](https://rogerdudler.github.io/git-guide/)
+
+## Development
+
+In case you did want to run the Java code...
+
+```bash
+javac com/will_russell/git/Workshop.java
+java com.will_russell.git.Workshop
+```
