@@ -26,6 +26,7 @@ By [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://githu
 
 - [Lots of examples you can try here](https://lab.github.com/)
 - [Brilliant guide for git](https://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Development
 
