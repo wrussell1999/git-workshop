@@ -27,6 +27,8 @@ By [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://githu
 - [Lots of examples you can try here](https://lab.github.com/)
 - [Brilliant guide for git](https://rogerdudler.github.io/git-guide/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- [Git Cheat Sheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet (GitHub)](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 ## Development
 

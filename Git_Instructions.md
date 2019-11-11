@@ -28,6 +28,12 @@ git config --global user.email
 touch <file name>
 ```
 
+_Add the `.gitignore`
+
+```
+echo "*.class" > .gitignore
+```
+
 ## 4. Add files to the stage
 
 ```
@@ -82,4 +88,14 @@ git checkout -b <branch name>
 
 ```
 git merge <branch to merge from>
+```
+
+## 13. Pull Request on GitHub
+
+_Go to GitHub_
+
+## 14. Pull changes
+
+```
+git pull
 ```
