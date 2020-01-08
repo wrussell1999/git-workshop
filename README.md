@@ -1,6 +1,8 @@
 # Git Workshop
 By [Justin Chadwell](https://github.com/jedevc) and [Will Russell](https://github.com/wrussell1999)
 
+Find the slides [here](https://docs.google.com/presentation/d/142IsuFl96T9YDb7iv8kMSPFGa4WZv4Hr67T0Lx_2uxE/edit?usp=sharing)!!!
+
 ## Instructions
 
 1. Create Repository
